@@ -7,6 +7,7 @@ Data Structure And Algorithm Using cpp.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0283-move-zeroes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
@@ -16,6 +17,7 @@ Data Structure And Algorithm Using cpp.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0283-move-zeroes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
