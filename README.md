@@ -7,6 +7,7 @@ Data Structure And Algorithm Using cpp.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0792-binary-search) |
@@ -18,9 +19,11 @@ Data Structure And Algorithm Using cpp.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
