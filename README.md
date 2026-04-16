@@ -71,4 +71,8 @@ Data Structure And Algorithm Using cpp.
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
