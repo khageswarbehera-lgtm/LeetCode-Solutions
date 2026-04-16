@@ -11,8 +11,7 @@ public:
             ld=num%10;
             num=num/10;
             rev=rev*10+ld;
-            if(rev>x)
-            return false;
+            
         }
         if(rev==x)
         return true;
