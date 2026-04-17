@@ -80,12 +80,14 @@ Data Structure And Algorithm Using cpp.
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0050-powx-n) |
 ## Stack
 |  |
 | ------- |
