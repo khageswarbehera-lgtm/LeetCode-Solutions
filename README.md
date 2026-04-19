@@ -93,9 +93,18 @@ Data Structure And Algorithm Using cpp.
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0231-power-of-two) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
