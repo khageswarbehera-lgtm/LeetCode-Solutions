@@ -93,6 +93,7 @@ Data Structure And Algorithm Using cpp.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
@@ -107,4 +108,8 @@ Data Structure And Algorithm Using cpp.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
