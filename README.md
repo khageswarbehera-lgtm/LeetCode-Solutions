@@ -141,6 +141,7 @@ Data Structure And Algorithm Using cpp.
 | [0145-binary-tree-postorder-traversal](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0572-subtree-of-another-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -166,6 +167,7 @@ Data Structure And Algorithm Using cpp.
 | [0145-binary-tree-postorder-traversal](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0572-subtree-of-another-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -182,4 +184,8 @@ Data Structure And Algorithm Using cpp.
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
