@@ -55,6 +55,7 @@ Data Structure And Algorithm Using cpp.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Counting
@@ -75,6 +76,7 @@ Data Structure And Algorithm Using cpp.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
@@ -195,4 +197,12 @@ Data Structure And Algorithm Using cpp.
 | [0098-validate-binary-search-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
