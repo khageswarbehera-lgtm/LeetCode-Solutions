@@ -26,7 +26,8 @@ public:
 
         while(!pq.empty()) {
             int val = pq.top();
-            pq.pop(); ListNode* newNode = new ListNode(val);
+            pq.pop();
+             ListNode* newNode = new ListNode(val);
 
             if(head == NULL) {
                 head = tail = newNode;
