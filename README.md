@@ -22,6 +22,7 @@ Data Structure And Algorithm Using cpp.
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0792-binary-search](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
@@ -112,6 +113,7 @@ Data Structure And Algorithm Using cpp.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0231-power-of-two) |
 ## Design
 |  |
@@ -143,6 +145,7 @@ Data Structure And Algorithm Using cpp.
 | [0144-binary-tree-preorder-traversal](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0450-delete-node-in-a-bst](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
@@ -174,6 +177,7 @@ Data Structure And Algorithm Using cpp.
 | [0144-binary-tree-preorder-traversal](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0450-delete-node-in-a-bst](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
