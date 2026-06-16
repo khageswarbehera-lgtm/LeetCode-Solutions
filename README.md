@@ -46,6 +46,7 @@ Data Structure And Algorithm Using cpp.
 | [0018-4sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ Data Structure And Algorithm Using cpp.
 | [0142-linked-list-cycle-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -152,6 +154,7 @@ Data Structure And Algorithm Using cpp.
 | [0543-diameter-of-binary-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -168,6 +171,7 @@ Data Structure And Algorithm Using cpp.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -188,6 +192,7 @@ Data Structure And Algorithm Using cpp.
 | [0543-diameter-of-binary-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -196,6 +201,7 @@ Data Structure And Algorithm Using cpp.
 | [0102-binary-tree-level-order-traversal](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## String Matching
 |  |
 | ------- |
