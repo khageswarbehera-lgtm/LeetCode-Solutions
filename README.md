@@ -12,6 +12,7 @@ Data Structure And Algorithm Using cpp.
 | [0039-combination-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -120,6 +121,7 @@ Data Structure And Algorithm Using cpp.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0231-power-of-two) |
@@ -246,6 +248,7 @@ Data Structure And Algorithm Using cpp.
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 ## Enumeration
 |  |
