@@ -2,40 +2,24 @@ class Solution {
 public:
     int divide(int dividend, int divisor) {
 
-        if(dividend == divisor)
-            return 1;
+        if (dividend == INT_MIN && divisor == -1)
+            return INT_MAX;
 
-        bool sign = true;
+        long long dvd = llabs((long long)dividend);
+        long long dvs = llabs((long long)divisor);
 
-        if((dividend >= 0 && divisor < 0) ||
-           (dividend < 0 && divisor > 0))
-            sign = false;
+        long long ans = 0;
 
-        long long n = llabs((long long)dividend);
-        long long d = llabs((long long)divisor);
-
-        long long quotient = 0;
-
-        while(n >= d)
-        {
-            int count = 0;
-
-            while(n >= (d << (count + 1)))
-            {
-                count++;
+        for (int i = 31; i >= 0; i--) {
+            if ((dvs << i) <= dvd) {
+                dvd -= (dvs << i);
+                ans += (1LL << i);
             }
-
-            quotient += (1LL << count);
-            n -= (d << count);
         }
 
-        if(quotient == (1LL << 31))
-        {
-            if(sign)
-                return INT_MAX;
-            return INT_MIN;
-        }
+        if ((dividend < 0) ^ (divisor < 0))
+            ans = -ans;
 
-        return sign ? quotient : -quotient;
+        return (int)ans;
     }
 };
