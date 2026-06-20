@@ -104,6 +104,7 @@ Data Structure And Algorithm Using cpp.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0231-power-of-two) |
@@ -122,6 +123,7 @@ Data Structure And Algorithm Using cpp.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0136-single-number) |
