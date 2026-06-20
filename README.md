@@ -15,6 +15,7 @@ Data Structure And Algorithm Using cpp.
 | [0090-subsets-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -102,6 +103,7 @@ Data Structure And Algorithm Using cpp.
 | ------- |
 | [0009-palindrome-number](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 ## Stack
@@ -245,4 +247,12 @@ Data Structure And Algorithm Using cpp.
 | ------- |
 | [0039-combination-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
