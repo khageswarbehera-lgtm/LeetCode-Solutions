@@ -74,6 +74,7 @@ Data Structure And Algorithm Using cpp.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -143,6 +144,7 @@ Data Structure And Algorithm Using cpp.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -253,6 +255,7 @@ Data Structure And Algorithm Using cpp.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0078-subsets) |
