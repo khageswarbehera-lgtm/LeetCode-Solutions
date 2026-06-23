@@ -10,6 +10,7 @@ Data Structure And Algorithm Using cpp.
 | [0016-3sum-closest](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0075-sort-colors) |
@@ -257,6 +258,7 @@ Data Structure And Algorithm Using cpp.
 | ------- |
 | [0022-generate-parentheses](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0090-subsets-ii) |
