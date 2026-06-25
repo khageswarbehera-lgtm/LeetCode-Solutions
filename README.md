@@ -15,6 +15,7 @@ Data Structure And Algorithm Using cpp.
 | [0053-maximum-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -149,6 +150,7 @@ Data Structure And Algorithm Using cpp.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0079-word-search) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -181,6 +183,7 @@ Data Structure And Algorithm Using cpp.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0100-same-tree) |
@@ -265,6 +268,7 @@ Data Structure And Algorithm Using cpp.
 | [0040-combination-sum-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 ## Enumeration
@@ -275,4 +279,8 @@ Data Structure And Algorithm Using cpp.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
