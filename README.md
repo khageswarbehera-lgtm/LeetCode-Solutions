@@ -28,6 +28,7 @@ Data Structure And Algorithm Using cpp.
 | [0503-next-greater-element-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0792-binary-search](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,16 +66,19 @@ Data Structure And Algorithm Using cpp.
 | [0169-majority-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -259,6 +263,7 @@ Data Structure And Algorithm Using cpp.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -283,4 +288,12 @@ Data Structure And Algorithm Using cpp.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0079-word-search) |
+## Segment Tree
+|  |
+| ------- |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
