@@ -66,6 +66,7 @@ Data Structure And Algorithm Using cpp.
 | [0169-majority-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1297-maximum-number-of-balloons](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -78,6 +79,7 @@ Data Structure And Algorithm Using cpp.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [1297-maximum-number-of-balloons](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
@@ -155,6 +157,7 @@ Data Structure And Algorithm Using cpp.
 | [0020-valid-parentheses](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0079-word-search) |
+| [1297-maximum-number-of-balloons](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 ## Monotonic Stack
 |  |
 | ------- |
