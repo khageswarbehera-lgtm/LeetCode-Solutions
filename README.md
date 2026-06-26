@@ -28,6 +28,7 @@ Data Structure And Algorithm Using cpp.
 | [0503-next-greater-element-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0792-binary-search](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
@@ -158,6 +159,7 @@ Data Structure And Algorithm Using cpp.
 | [0022-generate-parentheses](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0079-word-search) |
 | [1297-maximum-number-of-balloons](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -299,4 +301,12 @@ Data Structure And Algorithm Using cpp.
 |  |
 | ------- |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Shortest Path
+|  |
+| ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
