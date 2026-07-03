@@ -35,6 +35,7 @@ Data Structure And Algorithm Using cpp.
 | [3235-minimum-cost-to-convert-string-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3919-network-recovery-pathways](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3919-network-recovery-pathways) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
@@ -42,6 +43,7 @@ Data Structure And Algorithm Using cpp.
 | [0222-count-complete-tree-nodes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0792-binary-search](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3919-network-recovery-pathways](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3919-network-recovery-pathways) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,6 +104,7 @@ Data Structure And Algorithm Using cpp.
 | [0124-binary-tree-maximum-path-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [3919-network-recovery-pathways](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3919-network-recovery-pathways) |
 ## Simulation
 |  |
 | ------- |
@@ -288,6 +291,7 @@ Data Structure And Algorithm Using cpp.
 | [0023-merge-k-sorted-lists](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3919-network-recovery-pathways](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3919-network-recovery-pathways) |
 ## Merge Sort
 |  |
 | ------- |
@@ -338,11 +342,13 @@ Data Structure And Algorithm Using cpp.
 | ------- |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3919-network-recovery-pathways](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3919-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3919-network-recovery-pathways](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3919-network-recovery-pathways) |
 ## Greedy
 |  |
 | ------- |
@@ -355,4 +361,8 @@ Data Structure And Algorithm Using cpp.
 |  |
 | ------- |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
+## Topological Sort
+|  |
+| ------- |
+| [3919-network-recovery-pathways](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3919-network-recovery-pathways) |
 <!---LeetCode Topics End-->
