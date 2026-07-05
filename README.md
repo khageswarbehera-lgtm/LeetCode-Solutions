@@ -20,6 +20,7 @@ Data Structure And Algorithm Using cpp.
 | [0079-word-search](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0130-surrounded-regions](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0204-count-primes) |
@@ -225,6 +226,7 @@ Data Structure And Algorithm Using cpp.
 | [0104-maximum-depth-of-binary-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -269,6 +271,7 @@ Data Structure And Algorithm Using cpp.
 | [0101-symmetric-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
@@ -338,6 +341,7 @@ Data Structure And Algorithm Using cpp.
 | ------- |
 | [0037-sudoku-solver](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0695-max-area-of-island](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -375,6 +379,7 @@ Data Structure And Algorithm Using cpp.
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [2121-find-if-path-exists-in-graph](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
