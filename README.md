@@ -28,6 +28,7 @@ Data Structure And Algorithm Using cpp.
 | [0485-max-consecutive-ones](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0695-max-area-of-island](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -232,6 +233,7 @@ Data Structure And Algorithm Using cpp.
 | [0543-diameter-of-binary-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
@@ -269,6 +271,7 @@ Data Structure And Algorithm Using cpp.
 | [0104-maximum-depth-of-binary-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -335,6 +338,7 @@ Data Structure And Algorithm Using cpp.
 | ------- |
 | [0037-sudoku-solver](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0695-max-area-of-island](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Segment Tree
@@ -372,6 +376,7 @@ Data Structure And Algorithm Using cpp.
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [2121-find-if-path-exists-in-graph](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
