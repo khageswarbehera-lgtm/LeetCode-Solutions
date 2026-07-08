@@ -143,6 +143,7 @@ Data Structure And Algorithm Using cpp.
 | [0231-power-of-two](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [2050-count-good-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
 | ------- |
@@ -188,6 +189,7 @@ Data Structure And Algorithm Using cpp.
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -355,6 +357,7 @@ Data Structure And Algorithm Using cpp.
 |  |
 | ------- |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Graph Theory
 |  |
 | ------- |
