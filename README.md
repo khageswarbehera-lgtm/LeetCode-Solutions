@@ -39,6 +39,7 @@ Data Structure And Algorithm Using cpp.
 | [3235-minimum-cost-to-convert-string-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3919-network-recovery-pathways](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3919-network-recovery-pathways) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Binary Search
@@ -47,6 +48,7 @@ Data Structure And Algorithm Using cpp.
 | [0222-count-complete-tree-nodes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0792-binary-search](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3919-network-recovery-pathways](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3919-network-recovery-pathways) |
 ## Two Pointers
 |  |
@@ -62,6 +64,7 @@ Data Structure And Algorithm Using cpp.
 | [0283-move-zeroes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -73,6 +76,7 @@ Data Structure And Algorithm Using cpp.
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1222-remove-covered-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1222-remove-covered-intervals) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +113,7 @@ Data Structure And Algorithm Using cpp.
 | [0124-binary-tree-maximum-path-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3919-network-recovery-pathways](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3919-network-recovery-pathways) |
 ## Simulation
 |  |
@@ -166,6 +171,7 @@ Data Structure And Algorithm Using cpp.
 | [0231-power-of-two](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Design
 |  |
 | ------- |
@@ -366,6 +372,7 @@ Data Structure And Algorithm Using cpp.
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3919-network-recovery-pathways](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3919-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -377,6 +384,7 @@ Data Structure And Algorithm Using cpp.
 |  |
 | ------- |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Sliding Window
 |  |
 | ------- |
