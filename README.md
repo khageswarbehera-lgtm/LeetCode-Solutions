@@ -346,6 +346,7 @@ Data Structure And Algorithm Using cpp.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [1212-sequential-digits](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1212-sequential-digits) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 ## Number Theory
 |  |
