@@ -154,6 +154,7 @@ Data Structure And Algorithm Using cpp.
 | [0282-expression-add-operators](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [2050-count-good-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
@@ -356,6 +357,7 @@ Data Structure And Algorithm Using cpp.
 | ------- |
 | [0204-count-primes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
 | ------- |
