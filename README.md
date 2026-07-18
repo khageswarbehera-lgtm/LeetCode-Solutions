@@ -35,6 +35,7 @@ Data Structure And Algorithm Using cpp.
 | [1256-rank-transform-of-an-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -161,6 +162,7 @@ Data Structure And Algorithm Using cpp.
 | [0231-power-of-two](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [2050-count-good-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3583-sorted-gcd-pair-queries](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
@@ -366,6 +368,7 @@ Data Structure And Algorithm Using cpp.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3583-sorted-gcd-pair-queries](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
