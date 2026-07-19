@@ -179,6 +179,7 @@ Data Structure And Algorithm Using cpp.
 | [0234-palindrome-linked-list](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -209,6 +210,7 @@ Data Structure And Algorithm Using cpp.
 | [0079-word-search](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -220,6 +222,7 @@ Data Structure And Algorithm Using cpp.
 | ------- |
 | [0496-next-greater-element-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Tree
 |  |
 | ------- |
@@ -412,6 +415,7 @@ Data Structure And Algorithm Using cpp.
 ## Greedy
 |  |
 | ------- |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Sliding Window
