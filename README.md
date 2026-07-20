@@ -33,6 +33,7 @@ Data Structure And Algorithm Using cpp.
 | [0792-binary-search](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [1222-remove-covered-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1386-shift-2d-grid](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1386-shift-2d-grid) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -131,6 +132,7 @@ Data Structure And Algorithm Using cpp.
 ## Simulation
 |  |
 | ------- |
+| [1386-shift-2d-grid](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1386-shift-2d-grid) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Linked List
@@ -383,6 +385,7 @@ Data Structure And Algorithm Using cpp.
 | [0079-word-search](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0695-max-area-of-island](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [1386-shift-2d-grid](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1386-shift-2d-grid) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Segment Tree
