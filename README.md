@@ -218,6 +218,7 @@ Data Structure And Algorithm Using cpp.
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3805-maximize-active-section-with-trade-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3805-maximize-active-section-with-trade-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Monotonic Stack
 |  |
@@ -369,6 +370,7 @@ Data Structure And Algorithm Using cpp.
 | [0204-count-primes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [1212-sequential-digits](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1212-sequential-digits) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
+| [3805-maximize-active-section-with-trade-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3805-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
