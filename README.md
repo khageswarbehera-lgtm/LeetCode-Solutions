@@ -11,6 +11,7 @@ Data Structure And Algorithm Using cpp.
 | [0018-4sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
@@ -53,6 +54,7 @@ Data Structure And Algorithm Using cpp.
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0792-binary-search](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
