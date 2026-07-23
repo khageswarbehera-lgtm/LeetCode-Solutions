@@ -48,6 +48,7 @@ Data Structure And Algorithm Using cpp.
 | [3583-sorted-gcd-pair-queries](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3804-maximize-active-section-with-trade-ii) |
+| [3824-number-of-unique-xor-triplets-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3919-network-recovery-pathways](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3919-network-recovery-pathways) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
@@ -175,6 +176,7 @@ Data Structure And Algorithm Using cpp.
 | [2106-find-greatest-common-divisor-of-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3583-sorted-gcd-pair-queries](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
+| [3824-number-of-unique-xor-triplets-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
@@ -201,6 +203,7 @@ Data Structure And Algorithm Using cpp.
 | [0231-power-of-two](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3824-number-of-unique-xor-triplets-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Design
 |  |
