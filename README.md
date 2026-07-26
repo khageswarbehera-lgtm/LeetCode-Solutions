@@ -32,6 +32,7 @@ Data Structure And Algorithm Using cpp.
 | [0485-max-consecutive-ones](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [1222-remove-covered-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1222-remove-covered-intervals) |
@@ -91,6 +92,7 @@ Data Structure And Algorithm Using cpp.
 | [0018-4sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0628-maximum-product-of-three-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1222-remove-covered-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
@@ -174,6 +176,7 @@ Data Structure And Algorithm Using cpp.
 | [0204-count-primes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
+| [0628-maximum-product-of-three-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2050-count-good-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3583-sorted-gcd-pair-queries](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
