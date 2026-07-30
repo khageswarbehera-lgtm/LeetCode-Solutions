@@ -184,6 +184,7 @@ Data Structure And Algorithm Using cpp.
 | [0628-maximum-product-of-three-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2050-count-good-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3583-sorted-gcd-pair-queries](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
@@ -242,6 +243,7 @@ Data Structure And Algorithm Using cpp.
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3805-maximize-active-section-with-trade-i) |
@@ -453,6 +455,7 @@ Data Structure And Algorithm Using cpp.
 | ------- |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Sliding Window
 |  |
