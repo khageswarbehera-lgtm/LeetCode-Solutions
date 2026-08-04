@@ -58,6 +58,7 @@ Data Structure And Algorithm Using cpp.
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3919-network-recovery-pathways](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3919-network-recovery-pathways) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4107-find-missing-elements](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -106,6 +107,7 @@ Data Structure And Algorithm Using cpp.
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3859-maximum-product-of-two-digits](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3859-maximum-product-of-two-digits) |
+| [4107-find-missing-elements](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -125,6 +127,7 @@ Data Structure And Algorithm Using cpp.
 | [3583-sorted-gcd-pair-queries](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4107-find-missing-elements](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4107-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
