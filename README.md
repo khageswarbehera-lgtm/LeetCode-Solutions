@@ -323,6 +323,7 @@ Data Structure And Algorithm Using cpp.
 | [2121-find-if-path-exists-in-graph](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
+| [3561-remove-methods-from-project](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3561-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -364,6 +365,7 @@ Data Structure And Algorithm Using cpp.
 | [2793-count-the-number-of-complete-components](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3561-remove-methods-from-project](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3561-remove-methods-from-project) |
 ## String Matching
 |  |
 | ------- |
@@ -459,6 +461,7 @@ Data Structure And Algorithm Using cpp.
 | [2793-count-the-number-of-complete-components](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3561-remove-methods-from-project](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3561-remove-methods-from-project) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3919-network-recovery-pathways](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3919-network-recovery-pathways) |
 ## Shortest Path
