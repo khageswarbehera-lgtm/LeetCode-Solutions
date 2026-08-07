@@ -203,6 +203,7 @@ Data Structure And Algorithm Using cpp.
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3583-sorted-gcd-pair-queries](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
@@ -262,6 +263,7 @@ Data Structure And Algorithm Using cpp.
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
@@ -414,6 +416,7 @@ Data Structure And Algorithm Using cpp.
 | [0216-combination-sum-iii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -429,6 +432,7 @@ Data Structure And Algorithm Using cpp.
 | [2106-find-greatest-common-divisor-of-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3583-sorted-gcd-pair-queries](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Matrix
@@ -477,6 +481,7 @@ Data Structure And Algorithm Using cpp.
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Sliding Window
 |  |
