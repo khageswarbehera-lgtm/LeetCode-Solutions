@@ -87,6 +87,7 @@ Data Structure And Algorithm Using cpp.
 | [0283-move-zeroes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -156,6 +157,7 @@ Data Structure And Algorithm Using cpp.
 | [0909-stone-game](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0909-stone-game) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1522-stone-game-iii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1522-stone-game-iii) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3919-network-recovery-pathways](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3919-network-recovery-pathways) |
@@ -263,6 +265,7 @@ Data Structure And Algorithm Using cpp.
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3805-maximize-active-section-with-trade-i) |
@@ -481,6 +484,7 @@ Data Structure And Algorithm Using cpp.
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Sliding Window
