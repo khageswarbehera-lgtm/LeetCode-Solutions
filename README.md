@@ -38,6 +38,7 @@ Data Structure And Algorithm Using cpp.
 | [0792-binary-search](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0909-stone-game](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0909-stone-game) |
 | [1222-remove-covered-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1222-remove-covered-intervals) |
+| [1240-stone-game-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1386-shift-2d-grid](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1386-shift-2d-grid) |
 | [1522-stone-game-iii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1522-stone-game-iii) |
@@ -155,6 +156,7 @@ Data Structure And Algorithm Using cpp.
 | [0131-palindrome-partitioning](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1522-stone-game-iii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1522-stone-game-iii) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
@@ -199,6 +201,7 @@ Data Structure And Algorithm Using cpp.
 | [0486-predict-the-winner](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0909-stone-game](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1522-stone-game-iii) |
 | [2050-count-good-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -456,6 +459,7 @@ Data Structure And Algorithm Using cpp.
 ## Prefix Sum
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -519,5 +523,14 @@ Data Structure And Algorithm Using cpp.
 | ------- |
 | [0486-predict-the-winner](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1522-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
