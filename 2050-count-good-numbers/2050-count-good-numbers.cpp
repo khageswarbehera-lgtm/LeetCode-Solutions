@@ -1,24 +1,7 @@
+#include "../common/numeric.hpp"
+
 class Solution {
 public:
-
-    const long long MOD = 1e9 + 7;
-
-    long long power(long long x, long long n) {
-
-        long long ans = 1;
-
-        while (n > 0) {
-
-            if (n % 2 == 1)
-                ans = (ans * x) % MOD;
-
-            x = (x * x) % MOD;
-
-            n /= 2;
-        }
-
-        return ans;
-    }
 
     int countGoodNumbers(long long n) {
 
@@ -26,6 +9,6 @@ public:
 
         long long odd = n / 2;
 
-        return (power(5, even) * power(4, odd)) % MOD;
+        return (lc::powMod(5, even) * lc::powMod(4, odd)) % lc::kMod;
     }
 };

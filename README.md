@@ -1,6 +1,37 @@
 # LeetCode-Solutions
 Data Structure And Algorithm Using cpp.
 
+## Shared utilities
+
+`common/` holds header-only helpers for the patterns that repeat across
+solutions, so they live in one place instead of being retyped per problem:
+
+| Header | Contents |
+| ------- | ------- |
+| `common/leetcode.hpp` | standard library includes plus the `TreeNode` / `ListNode` definitions the judge injects |
+| `common/grid.hpp` | `kDeltaRow4` / `kDeltaCol4`, `inBounds`, `rowCount`, `colCount`, `forEachNeighbor4` |
+| `common/graph.hpp` | `AdjacencyList`, `WeightedAdjacencyList`, `buildUndirectedGraph`, `buildWeightedUndirectedGraph`, `buildWeightedDirectedGraph` |
+| `common/numeric.hpp` | `kMod`, `gcdOf`, `powMod` |
+| `common/strings.hpp` | `lowercaseFrequency`, `stringFromCounts`, `palindromeHalfCounts`, `mirrorPalindrome` |
+
+Solutions that use them start with e.g. `#include "../common/grid.hpp"`. That
+path only resolves inside this repository: when submitting on LeetCode, drop the
+include and paste the few helpers the solution needs.
+
+## Tests
+
+`tests/` compiles each refactored solution together with the shared headers and
+checks the problem's documented examples:
+
+```
+cd tests && make test
+```
+
+Each test also prints the results it computes for a deterministic set of random
+inputs, so `tests/diff_check.sh [revision]` can compile every test against both
+the working tree and a baseline revision and diff the output — that is how the
+refactors were verified to preserve behaviour.
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array

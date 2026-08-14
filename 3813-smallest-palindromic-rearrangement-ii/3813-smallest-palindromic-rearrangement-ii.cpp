@@ -1,3 +1,5 @@
+#include "../common/strings.hpp"
+
 class Solution {
 public:
     static const long long LIMIT = 1000001;
@@ -22,7 +24,7 @@ public:
 
         long long ans = 1;
 
-        for (int i = 0; i < 26; i++) {
+        for (int i = 0; i < lc::kAlphabet; i++) {
             ans *= C(total, cnt[i]);
             if (ans >= LIMIT) return LIMIT;
             total -= cnt[i];
@@ -32,29 +34,9 @@ public:
     }
 
     string smallestPalindrome(string s, int k) {
-        vector<int> freq(26, 0);
+        auto [half, mid] = lc::palindromeHalfCounts(lc::lowercaseFrequency(s));
 
-        for (char c : s)
-            freq[c - 'a']++;
-
-        char mid = 0;
-
-        for (int i = 0; i < 26; i++) {
-            if (freq[i] & 1) {
-                mid = char('a' + i);
-                freq[i]--;
-                break;
-            }
-        }
-
-        vector<int> half(26);
-
-        int len = 0;
-
-        for (int i = 0; i < 26; i++) {
-            half[i] = freq[i] / 2;
-            len += half[i];
-        }
+        int len = accumulate(half.begin(), half.end(), 0);
 
         if (countWays(half) < k)
             return "";
@@ -63,7 +45,7 @@ public:
 
         for (int pos = 0; pos < len; pos++) {
 
-            for (int c = 0; c < 26; c++) {
+            for (int c = 0; c < lc::kAlphabet; c++) {
 
                 if (half[c] == 0)
                     continue;
@@ -82,12 +64,6 @@ public:
             }
         }
 
-        string right = left;
-        reverse(right.begin(), right.end());
-
-        if (mid)
-            return left + string(1, mid) + right;
-
-        return left + right;
+        return lc::mirrorPalindrome(left, mid);
     }
 };

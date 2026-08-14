@@ -1,17 +1,19 @@
+#include "../common/graph.hpp"
+
 class Solution {
 public:
     int findMaxPathScore(vector<vector<int>>& edges, vector<bool>& online, long long k) {
         int n = online.size();
-        vector<vector<pair<int, int>>> g(n);
-        
+
+        lc::WeightedAdjacencyList g = lc::buildWeightedDirectedGraph(
+            n, edges, [&](int u, int v, int) { return online[u] && online[v]; });
+
         int min_w = 2e9, max_w = -1;
-        
-        for (const auto& e : edges) {
-            int u = e[0], v = e[1], w = e[2];
-            if (online[u] && online[v]) {
-                g[u].push_back({v, w});
-                min_w = min(min_w, w);
-                max_w = max(max_w, w);
+
+        for (const auto& adj : g) {
+            for (const auto& edge : adj) {
+                min_w = min(min_w, edge.second);
+                max_w = max(max_w, edge.second);
             }
         }
         

@@ -1,6 +1,8 @@
+#include "../common/graph.hpp"
+
 class Solution {
 public:
-    void dfs(int node, vector<vector<int>>& adj, vector<bool>& vis,
+    void dfs(int node, const lc::AdjacencyList& adj, vector<bool>& vis,
              int& nodes, int& degreeSum) {
 
         vis[node] = true;
@@ -15,12 +17,7 @@ public:
 
     int countCompleteComponents(int n, vector<vector<int>>& edges) {
 
-        vector<vector<int>> adj(n);
-
-        for (auto &e : edges) {
-            adj[e[0]].push_back(e[1]);
-            adj[e[1]].push_back(e[0]);
-        }
+        lc::AdjacencyList adj = lc::buildUndirectedGraph(n, edges);
 
         vector<bool> vis(n, false);
 

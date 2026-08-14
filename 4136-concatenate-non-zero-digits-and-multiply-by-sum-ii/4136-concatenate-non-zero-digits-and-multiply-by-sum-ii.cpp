@@ -1,7 +1,7 @@
+#include "../common/numeric.hpp"
+
 class Solution {
 public:
-    static const int MOD = 1000000007;
-
     vector<int> sumAndMultiply(string s, vector<vector<int>>& queries) {
         int n = s.size();
 
@@ -11,7 +11,7 @@ public:
         vector<long long> pow10(n + 1, 1);
 
         for (int i = 1; i <= n; i++)
-            pow10[i] = (pow10[i - 1] * 10) % MOD;
+            pow10[i] = (pow10[i - 1] * 10) % lc::kMod;
 
         long long cur = 0;
 
@@ -26,7 +26,7 @@ public:
                 cnt[i + 1]++;
                 sum[i + 1] += d;
 
-                cur = (cur * 10 + d) % MOD;
+                cur = (cur * 10 + d) % lc::kMod;
                 pref[i + 1] = cur;
             }
         }
@@ -40,9 +40,9 @@ public:
             int digitCnt = cnt[r + 1] - cnt[l];
             int digitSum = sum[r + 1] - sum[l];
 
-            long long x = (pref[r + 1] -pref[l] * pow10[digitCnt] % MOD + MOD) % MOD;
+            long long x = (pref[r + 1] - pref[l] * pow10[digitCnt] % lc::kMod + lc::kMod) % lc::kMod;
 
-            ans.push_back((x * digitSum) % MOD);
+            ans.push_back((x * digitSum) % lc::kMod);
         }
 
         return ans;

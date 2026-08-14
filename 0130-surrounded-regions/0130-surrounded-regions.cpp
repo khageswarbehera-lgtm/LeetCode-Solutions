@@ -1,37 +1,31 @@
+#include "../common/grid.hpp"
+
 class Solution {
 public:
 
-    int dr[4]={-1,0,1,0};
-    int dc[4]={0,1,0,-1};
-
     void dfs(vector<vector<char>>& board,int r,int c)
     {
-        int n=board.size();
-        int m=board[0].size();
+        int n=lc::rowCount(board);
+        int m=lc::colCount(board);
 
         board[r][c]='#';
 
-        for(int i=0;i<4;i++)
+        lc::forEachNeighbor4(r,c,n,m,[&](int nr,int nc)
         {
-            int nr=r+dr[i];
-            int nc=c+dc[i];
-
-            if(nr>=0 && nc>=0 &&
-               nr<n && nc<m &&
-               board[nr][nc]=='O')
+            if(board[nr][nc]=='O')
             {
                 dfs(board,nr,nc);
             }
-        }
+        });
     }
 
     void solve(vector<vector<char>>& board)
     {
-        int n=board.size();
+        int n=lc::rowCount(board);
 
         if(n==0) return;
 
-        int m=board[0].size();
+        int m=lc::colCount(board);
 
         for(int i=0;i<n;i++)
         {
