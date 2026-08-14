@@ -1,38 +1,32 @@
+#include "../common/grid.hpp"
+
 class Solution {
 public:
 
-    int dr[4]={-1,0,1,0};
-    int dc[4]={0,1,0,-1};
-
     int dfs(vector<vector<int>>& grid,int r,int c)
     {
-        int n=grid.size();
-        int m=grid[0].size();
+        int n=lc::rowCount(grid);
+        int m=lc::colCount(grid);
 
         grid[r][c]=0;
 
         int area=1;
 
-        for(int i=0;i<4;i++)
+        lc::forEachNeighbor4(r,c,n,m,[&](int nr,int nc)
         {
-            int nr=r+dr[i];
-            int nc=c+dc[i];
-
-            if(nr>=0 && nc>=0 &&
-               nr<n && nc<m &&
-               grid[nr][nc]==1)
+            if(grid[nr][nc]==1)
             {
                 area+=dfs(grid,nr,nc);
             }
-        }
+        });
 
         return area;
     }
 
     int maxAreaOfIsland(vector<vector<int>>& grid)
     {
-        int n=grid.size();
-        int m=grid[0].size();
+        int n=lc::rowCount(grid);
+        int m=lc::colCount(grid);
 
         int ans=0;
 

@@ -1,8 +1,10 @@
+#include "../common/grid.hpp"
+
 class Solution {
 public:
     int maximumSafenessFactor(vector<vector<int>>& grid) {
 
-        int n = grid.size();
+        int n = lc::rowCount(grid);
 
         vector<vector<int>> dist(n, vector<int>(n, -1));
 
@@ -22,31 +24,21 @@ public:
             }
         }
 
-        int dx[4]={1,-1,0,0};
-        int dy[4]={0,0,1,-1};
-
         while(!q.empty()){
 
             auto [x,y]=q.front();
 
             q.pop();
 
-            for(int k=0;k<4;k++){
-
-                int nx=x+dx[k];
-
-                int ny=y+dy[k];
-
-                if(nx<0||ny<0||nx>=n||ny>=n)
-                    continue;
+            lc::forEachNeighbor4(x,y,n,n,[&](int nx,int ny){
 
                 if(dist[nx][ny]!=-1)
-                    continue;
+                    return;
 
                 dist[nx][ny]=dist[x][y]+1;
 
                 q.push({nx,ny});
-            }
+            });
         }
 
         priority_queue<vector<int>> pq;
@@ -70,14 +62,7 @@ public:
             if(x==n-1 && y==n-1)
                 return safe;
 
-            for(int k=0;k<4;k++){
-
-                int nx=x+dx[k];
-
-                int ny=y+dy[k];
-
-                if(nx<0||ny<0||nx>=n||ny>=n)
-                    continue;
+            lc::forEachNeighbor4(x,y,n,n,[&](int nx,int ny){
 
                 int newSafe=min(safe,dist[nx][ny]);
 
@@ -87,7 +72,7 @@ public:
 
                     pq.push({newSafe,nx,ny});
                 }
-            }
+            });
         }
 
         return 0;

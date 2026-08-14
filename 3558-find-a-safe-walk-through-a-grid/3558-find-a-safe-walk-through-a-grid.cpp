@@ -1,9 +1,11 @@
+#include "../common/grid.hpp"
+
 class Solution {
 public:
     bool findSafeWalk(vector<vector<int>>& grid, int health) {
 
-        int m = grid.size();
-        int n = grid[0].size();
+        int m = lc::rowCount(grid);
+        int n = lc::colCount(grid);
 
         queue<vector<int>> q;
 
@@ -18,9 +20,6 @@ public:
 
         best[0][0] = startHealth;
 
-        int dx[4]={1,-1,0,0};
-        int dy[4]={0,0,1,-1};
-
         while(!q.empty()){
 
             auto cur=q.front();
@@ -34,26 +33,20 @@ public:
             if(x==m-1 && y==n-1)
                 return true;
 
-            for(int k=0;k<4;k++){
-
-                int nx=x+dx[k];
-                int ny=y+dy[k];
-
-                if(nx<0||ny<0||nx>=m||ny>=n)
-                    continue;
+            lc::forEachNeighbor4(x,y,m,n,[&](int nx,int ny){
 
                 int nh=h-grid[nx][ny];
 
                 if(nh<=0)
-                    continue;
+                    return;
 
                 if(nh<=best[nx][ny])
-                    continue;
+                    return;
 
                 best[nx][ny]=nh;
 
                 q.push({nx,ny,nh});
-            }
+            });
         }
 
         return false;

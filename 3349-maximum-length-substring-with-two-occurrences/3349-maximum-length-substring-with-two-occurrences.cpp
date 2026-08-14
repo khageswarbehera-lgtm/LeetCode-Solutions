@@ -1,8 +1,10 @@
+#include "../common/strings.hpp"
+
 class Solution {
 public:
     int maximumLengthSubstring(string s) {
 
-        vector<int> freq(26, 0);
+        vector<int> freq(lc::kAlphabet, 0);
 
         int left = 0;
         int ans = 0;

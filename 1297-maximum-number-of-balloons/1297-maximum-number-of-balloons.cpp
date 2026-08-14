@@ -1,13 +1,10 @@
+#include "../common/strings.hpp"
+
 class Solution {
 public:
     int maxNumberOfBalloons(string text) {
 
-        vector<int> freq(26, 0);
-
-        for(char ch : text)
-        {
-            freq[ch - 'a']++;
-        }
+        vector<int> freq = lc::lowercaseFrequency(text);
 
         return min({
             freq['b' - 'a'],
