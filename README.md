@@ -60,6 +60,7 @@ Data Structure And Algorithm Using cpp.
 | [3824-number-of-unique-xor-triplets-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3919-network-recovery-pathways](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3919-network-recovery-pathways) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4107-find-missing-elements](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
@@ -246,6 +247,7 @@ Data Structure And Algorithm Using cpp.
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Design
 |  |
 | ------- |
