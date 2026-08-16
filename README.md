@@ -46,6 +46,7 @@ Data Structure And Algorithm Using cpp.
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2156-stone-game-ix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -147,6 +148,7 @@ Data Structure And Algorithm Using cpp.
 | ------- |
 | [0169-majority-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [1297-maximum-number-of-balloons](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
+| [2156-stone-game-ix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
@@ -210,6 +212,7 @@ Data Structure And Algorithm Using cpp.
 | [1522-stone-game-iii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1522-stone-game-iii) |
 | [2050-count-good-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2156-stone-game-ix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3583-sorted-gcd-pair-queries](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
@@ -495,6 +498,7 @@ Data Structure And Algorithm Using cpp.
 | ------- |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
+| [2156-stone-game-ix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
@@ -536,16 +540,23 @@ Data Structure And Algorithm Using cpp.
 | [0909-stone-game](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1522-stone-game-iii) |
+| [2156-stone-game-ix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
+| [2156-stone-game-ix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
+| [2156-stone-game-ix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
 ## Ordered Set
 |  |
 | ------- |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2319-longest-substring-of-one-repeating-character) |
+## Nim Game
+|  |
+| ------- |
+| [2156-stone-game-ix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
 <!---LeetCode Topics End-->
