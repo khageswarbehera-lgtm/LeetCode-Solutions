@@ -35,6 +35,7 @@ Data Structure And Algorithm Using cpp.
 | [0503-next-greater-element-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [0724-find-pivot-index](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0909-stone-game](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0909-stone-game) |
 | [1222-remove-covered-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1222-remove-covered-intervals) |
@@ -476,6 +477,7 @@ Data Structure And Algorithm Using cpp.
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1240-stone-game-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
