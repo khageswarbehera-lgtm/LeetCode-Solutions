@@ -28,6 +28,7 @@ Data Structure And Algorithm Using cpp.
 | [0169-majority-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
@@ -106,6 +107,7 @@ Data Structure And Algorithm Using cpp.
 | [0018-4sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1222-remove-covered-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1222-remove-covered-intervals) |
@@ -126,6 +128,7 @@ Data Structure And Algorithm Using cpp.
 | [0141-linked-list-cycle](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
