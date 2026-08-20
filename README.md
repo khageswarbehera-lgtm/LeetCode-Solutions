@@ -60,6 +60,7 @@ Data Structure And Algorithm Using cpp.
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3583-sorted-gcd-pair-queries](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
@@ -188,6 +189,7 @@ Data Structure And Algorithm Using cpp.
 | ------- |
 | [1386-shift-2d-grid](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1386-shift-2d-grid) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
