@@ -29,6 +29,7 @@ Data Structure And Algorithm Using cpp.
 | [0130-surrounded-regions](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -98,6 +99,7 @@ Data Structure And Algorithm Using cpp.
 | [0088-merge-sorted-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
@@ -218,6 +220,7 @@ Data Structure And Algorithm Using cpp.
 | [0029-divide-two-integers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
