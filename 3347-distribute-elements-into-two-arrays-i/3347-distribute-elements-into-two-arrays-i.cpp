@@ -22,10 +22,7 @@ public:
             i++;
         }
 
-        // Append arr2 to arr1
-        for (int j = 0; j < arr2.size(); j++) {
-            arr1.push_back(arr2[j]);
-        }
+       arr1.insert(arr1.end(), arr2.begin(), arr2.end());
 
         return arr1;
     }
