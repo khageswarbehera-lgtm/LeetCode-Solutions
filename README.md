@@ -62,6 +62,7 @@ Data Structure And Algorithm Using cpp.
 | [3235-minimum-cost-to-convert-string-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3583-sorted-gcd-pair-queries](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
@@ -81,6 +82,7 @@ Data Structure And Algorithm Using cpp.
 | [0222-count-complete-tree-nodes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0792-binary-search](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3583-sorted-gcd-pair-queries](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
@@ -234,6 +236,7 @@ Data Structure And Algorithm Using cpp.
 | [2106-find-greatest-common-divisor-of-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2156-stone-game-ix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3583-sorted-gcd-pair-queries](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3635-smallest-divisible-digit-product-ii) |
@@ -266,6 +269,7 @@ Data Structure And Algorithm Using cpp.
 | [0222-count-complete-tree-nodes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
@@ -467,6 +471,7 @@ Data Structure And Algorithm Using cpp.
 | ------- |
 | [0204-count-primes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3583-sorted-gcd-pair-queries](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3635-smallest-divisible-digit-product-ii) |
@@ -549,6 +554,7 @@ Data Structure And Algorithm Using cpp.
 ## Combinatorics
 |  |
 | ------- |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3583-sorted-gcd-pair-queries](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Counting Sort
