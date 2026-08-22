@@ -6,6 +6,7 @@ Data Structure And Algorithm Using cpp.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0018-4sum) |
@@ -134,6 +135,7 @@ Data Structure And Algorithm Using cpp.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
