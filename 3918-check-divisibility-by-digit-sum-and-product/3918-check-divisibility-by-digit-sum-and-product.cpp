@@ -11,9 +11,7 @@ public:
             product*=ld;
             x/=10;
         }
-        if(n%(sum+product)==0)
-        return true;
-        return false;
+        return (n%(sum+product)==0);
         
     }
 };
