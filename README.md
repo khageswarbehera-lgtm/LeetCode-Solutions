@@ -244,6 +244,7 @@ Data Structure And Algorithm Using cpp.
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3859-maximum-product-of-two-digits) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
