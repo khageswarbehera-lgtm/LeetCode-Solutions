@@ -42,6 +42,7 @@ Data Structure And Algorithm Using cpp.
 | [0486-predict-the-winner](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0523-continuous-subarray-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
@@ -153,6 +154,7 @@ Data Structure And Algorithm Using cpp.
 | [0268-missing-number](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
@@ -241,6 +243,7 @@ Data Structure And Algorithm Using cpp.
 | [0268-missing-number](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0486-predict-the-winner](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0523-continuous-subarray-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0909-stone-game](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
@@ -513,6 +516,7 @@ Data Structure And Algorithm Using cpp.
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1240-stone-game-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
@@ -606,8 +610,12 @@ Data Structure And Algorithm Using cpp.
 |  |
 | ------- |
 | [2156-stone-game-ix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
-## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
