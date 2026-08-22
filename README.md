@@ -27,6 +27,7 @@ Data Structure And Algorithm Using cpp.
 | [0088-merge-sorted-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -138,6 +139,7 @@ Data Structure And Algorithm Using cpp.
 | [0001-two-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0128-longest-consecutive-sequence](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -543,6 +545,7 @@ Data Structure And Algorithm Using cpp.
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
@@ -591,7 +594,7 @@ Data Structure And Algorithm Using cpp.
 |  |
 | ------- |
 | [2156-stone-game-ix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
-## BoyerâMoore Majority Vote Algorithm
+## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0169-majority-element) |
