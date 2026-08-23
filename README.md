@@ -252,6 +252,7 @@ Data Structure And Algorithm Using cpp.
 | [1240-stone-game-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1522-stone-game-iii) |
 | [1685-stone-game-v](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1685-stone-game-v) |
+| [2039-sum-game](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2039-sum-game) |
 | [2050-count-good-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2156-stone-game-ix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
@@ -318,6 +319,7 @@ Data Structure And Algorithm Using cpp.
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2039-sum-game](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2039-sum-game) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -549,6 +551,7 @@ Data Structure And Algorithm Using cpp.
 | ------- |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
+| [2039-sum-game](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -594,6 +597,7 @@ Data Structure And Algorithm Using cpp.
 | [1240-stone-game-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1522-stone-game-iii) |
 | [1685-stone-game-v](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1685-stone-game-v) |
+| [2039-sum-game](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
 ## Minimax
 |  |
@@ -613,7 +617,7 @@ Data Structure And Algorithm Using cpp.
 |  |
 | ------- |
 | [2156-stone-game-ix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
-## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0169-majority-element) |
