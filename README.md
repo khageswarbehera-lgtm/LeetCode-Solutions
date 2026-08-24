@@ -59,6 +59,7 @@ Data Structure And Algorithm Using cpp.
 | [1685-stone-game-v](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1685-stone-game-v) |
 | [1791-richest-customer-wealth](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1791-richest-customer-wealth) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
+| [2002-stone-game-viii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2002-stone-game-viii) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2156-stone-game-ix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
@@ -202,6 +203,7 @@ Data Structure And Algorithm Using cpp.
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1522-stone-game-iii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1522-stone-game-iii) |
 | [1685-stone-game-v](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1685-stone-game-v) |
+| [2002-stone-game-viii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2002-stone-game-viii) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
@@ -252,6 +254,7 @@ Data Structure And Algorithm Using cpp.
 | [1240-stone-game-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1522-stone-game-iii) |
 | [1685-stone-game-v](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1685-stone-game-v) |
+| [2002-stone-game-viii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2002-stone-game-viii) |
 | [2039-sum-game](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2039-sum-game) |
 | [2050-count-good-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -525,6 +528,7 @@ Data Structure And Algorithm Using cpp.
 | [0560-subarray-sum-equals-k](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1240-stone-game-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
+| [2002-stone-game-viii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2002-stone-game-viii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -597,17 +601,20 @@ Data Structure And Algorithm Using cpp.
 | [1240-stone-game-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1522-stone-game-iii) |
 | [1685-stone-game-v](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1685-stone-game-v) |
+| [2002-stone-game-viii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2002-stone-game-viii) |
 | [2039-sum-game](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
+| [2002-stone-game-viii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2002-stone-game-viii) |
 | [2156-stone-game-ix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
+| [2002-stone-game-viii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2002-stone-game-viii) |
 | [2156-stone-game-ix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
 ## Ordered Set
 |  |
@@ -617,7 +624,7 @@ Data Structure And Algorithm Using cpp.
 |  |
 | ------- |
 | [2156-stone-game-ix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2156-stone-game-ix) |
-## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0169-majority-element) |
