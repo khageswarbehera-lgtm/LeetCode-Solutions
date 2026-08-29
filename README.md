@@ -97,6 +97,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
