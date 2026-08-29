@@ -53,6 +53,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0940-fruit-into-baskets](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1145-number-of-submatrices-that-sum-to-target) |
@@ -98,6 +99,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -135,5 +137,6 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
