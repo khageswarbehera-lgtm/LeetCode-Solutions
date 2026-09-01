@@ -71,6 +71,7 @@
 | [0012-integer-to-roman](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0389-find-the-difference](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0940-fruit-into-baskets](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
@@ -90,6 +91,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1184-car-pooling](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1184-car-pooling) |
@@ -142,6 +144,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0520-detect-capital) |
@@ -200,6 +203,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
