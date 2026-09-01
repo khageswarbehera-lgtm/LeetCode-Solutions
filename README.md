@@ -7,6 +7,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0137-single-number-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -203,6 +204,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0389-find-the-difference](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
