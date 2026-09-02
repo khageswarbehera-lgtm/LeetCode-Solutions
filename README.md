@@ -31,6 +31,7 @@
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1184-car-pooling](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1206-corporate-flight-bookings) |
+| [1217-relative-sort-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1217-relative-sort-array) |
 | [1603-running-sum-of-1d-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -84,6 +85,7 @@
 | [0645-set-mismatch](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0940-fruit-into-baskets](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1145-number-of-submatrices-that-sum-to-target) |
+| [1217-relative-sort-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1217-relative-sort-array) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
@@ -110,6 +112,7 @@
 | [0645-set-mismatch](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1184-car-pooling](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1184-car-pooling) |
+| [1217-relative-sort-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1217-relative-sort-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
@@ -233,6 +236,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [1217-relative-sort-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1217-relative-sort-array) |
 ## Sweep Line
 |  |
 | ------- |
@@ -241,4 +245,9 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [1217-relative-sort-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1217-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1217-relative-sort-array) |
 <!---LeetCode Topics End-->
