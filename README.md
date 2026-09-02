@@ -7,6 +7,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0137-single-number-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
