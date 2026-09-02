@@ -19,6 +19,7 @@
 | [0435-non-overlapping-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0561-array-partition](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0907-koko-eating-bananas](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
@@ -92,6 +93,7 @@
 | [0410-split-array-largest-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0561-array-partition](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -104,6 +106,7 @@
 | [0389-find-the-difference](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0561-array-partition](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1184-car-pooling](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1184-car-pooling) |
@@ -234,4 +237,8 @@
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1028-interval-list-intersections) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
