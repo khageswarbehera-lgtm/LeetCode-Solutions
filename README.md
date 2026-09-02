@@ -6,6 +6,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0137-single-number-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -92,6 +93,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0389-find-the-difference](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
@@ -212,4 +214,8 @@
 |  |
 | ------- |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
