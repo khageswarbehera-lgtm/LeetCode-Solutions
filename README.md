@@ -32,6 +32,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+| [4256-construct-uniform-parity-array-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4256-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -195,6 +196,7 @@
 | [0012-integer-to-roman](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0415-add-strings](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [4256-construct-uniform-parity-array-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4256-construct-uniform-parity-array-i) |
 ## Stack
 |  |
 | ------- |
