@@ -16,6 +16,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
@@ -87,6 +88,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0680-valid-palindrome-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -97,6 +99,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0389-find-the-difference](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0645-set-mismatch](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1184-car-pooling](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1184-car-pooling) |
@@ -181,6 +184,7 @@
 | [0055-jump-game](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0954-maximum-sum-circular-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Queue
