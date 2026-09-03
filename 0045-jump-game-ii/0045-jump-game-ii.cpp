@@ -8,16 +8,12 @@ public:
 
         for (int i = 0; i < nums.size() - 1; i++) {
 
-            // Find the farthest position
-            // reachable from current range
             farthest = max(farthest, i + nums[i]);
 
-            // We have reached the end of current range
             if (i == currentEnd) {
 
                 jumps++;
 
-                // Start a new range
                 currentEnd = farthest;
             }
         }
