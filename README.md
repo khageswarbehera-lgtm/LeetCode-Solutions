@@ -39,6 +39,7 @@
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4256-construct-uniform-parity-array-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4256-construct-uniform-parity-array-i) |
+| [4258-construct-uniform-parity-array-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -213,6 +214,7 @@
 | [0013-roman-to-integer](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0415-add-strings](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [4256-construct-uniform-parity-array-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4256-construct-uniform-parity-array-i) |
+| [4258-construct-uniform-parity-array-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Stack
 |  |
 | ------- |
