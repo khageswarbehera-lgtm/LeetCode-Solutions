@@ -30,6 +30,7 @@
 | [0566-reshape-the-matrix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0898-transpose-matrix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
@@ -167,6 +168,7 @@
 | [0074-search-a-2d-matrix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
+| [0898-transpose-matrix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Simulation
@@ -175,6 +177,7 @@
 | [0415-add-strings](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0874-backspace-string-compare](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
+| [0898-transpose-matrix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1184-car-pooling](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1184-car-pooling) |
 ## String
 |  |
