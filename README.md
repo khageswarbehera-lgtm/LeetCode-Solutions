@@ -43,6 +43,7 @@
 | [1217-relative-sort-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1217-relative-sort-array) |
 | [1603-running-sum-of-1d-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1677-matrix-diagonal-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -170,6 +171,7 @@
 | [0566-reshape-the-matrix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1145-number-of-submatrices-that-sum-to-target) |
+| [1677-matrix-diagonal-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
