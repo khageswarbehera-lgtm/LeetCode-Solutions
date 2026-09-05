@@ -51,6 +51,7 @@
 | [4256-construct-uniform-parity-array-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4284-smallest-stable-index-i) |
+| [4285-smallest-stable-index-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4285-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [4284-smallest-stable-index-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4284-smallest-stable-index-i) |
+| [4285-smallest-stable-index-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4285-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
