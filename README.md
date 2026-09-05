@@ -11,6 +11,7 @@
 | [0055-jump-game](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0134-gas-station](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0135-candy) |
@@ -96,6 +97,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0347-top-k-frequent-elements](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0389-find-the-difference) |
@@ -172,6 +174,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
