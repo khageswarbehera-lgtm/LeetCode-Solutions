@@ -29,6 +29,7 @@
 | [0435-non-overlapping-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0498-diagonal-traverse](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0561-array-partition](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0645-set-mismatch) |
@@ -177,6 +178,7 @@
 | [0073-set-matrix-zeroes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1145-number-of-submatrices-that-sum-to-target) |
@@ -187,6 +189,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [0498-diagonal-traverse](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0874-backspace-string-compare](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
