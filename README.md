@@ -40,6 +40,7 @@
 | [0940-fruit-into-baskets](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1028-interval-list-intersections](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1028-interval-list-intersections) |
+| [1044-find-common-characters](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1145-number-of-submatrices-that-sum-to-target) |
@@ -116,6 +117,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0940-fruit-into-baskets](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
+| [1044-find-common-characters](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1044-find-common-characters) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1217-relative-sort-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1217-relative-sort-array) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
@@ -238,6 +240,7 @@
 | [0742-to-lower-case](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0742-to-lower-case) |
 | [0874-backspace-string-compare](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0961-long-pressed-name](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0961-long-pressed-name) |
+| [1044-find-common-characters](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1044-find-common-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
