@@ -80,6 +80,7 @@
 | [0076-minimum-window-substring](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0940-fruit-into-baskets](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -119,6 +120,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0567-permutation-in-string](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0940-fruit-into-baskets](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1044-find-common-characters](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1044-find-common-characters) |
@@ -172,6 +174,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
@@ -243,6 +246,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0742-to-lower-case) |
 | [0874-backspace-string-compare](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
