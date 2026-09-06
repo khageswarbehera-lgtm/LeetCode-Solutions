@@ -102,6 +102,7 @@
 | [0049-group-anagrams](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0205-isomorphic-strings](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0383-ransom-note) |
@@ -214,6 +215,7 @@
 | [0125-valid-palindrome](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
+| [0205-isomorphic-strings](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
