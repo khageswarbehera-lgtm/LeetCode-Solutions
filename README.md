@@ -75,6 +75,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0658-find-k-closest-elements](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0940-fruit-into-baskets](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
@@ -98,6 +99,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0049-group-anagrams) |
@@ -208,6 +210,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0049-group-anagrams) |
