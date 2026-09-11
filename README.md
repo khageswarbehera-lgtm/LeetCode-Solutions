@@ -53,6 +53,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [3799-unique-3-digit-even-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4256-construct-uniform-parity-array-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4258-construct-uniform-parity-array-ii) |
@@ -126,6 +127,7 @@
 | [1044-find-common-characters](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1044-find-common-characters) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1217-relative-sort-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1217-relative-sort-array) |
+| [3799-unique-3-digit-even-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
@@ -269,6 +271,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Divide and Conquer
@@ -371,4 +374,8 @@
 |  |
 | ------- |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+## Recursion
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
