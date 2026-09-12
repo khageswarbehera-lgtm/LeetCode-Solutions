@@ -53,6 +53,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3799-unique-3-digit-even-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4256-construct-uniform-parity-array-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4256-construct-uniform-parity-array-i) |
@@ -74,6 +75,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Sliding Window
 |  |
 | ------- |
@@ -166,6 +168,7 @@
 | [1184-car-pooling](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1184-car-pooling) |
 | [1217-relative-sort-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1217-relative-sort-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -294,6 +297,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0977-distinct-subsequences-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0977-distinct-subsequences-ii) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Queue
 |  |
 | ------- |
