@@ -320,6 +320,7 @@
 | [0013-roman-to-integer](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0415-add-strings](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [0866-rectangle-overlap](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0866-rectangle-overlap) |
 | [4245-count-commas-in-range](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4256-construct-uniform-parity-array-i) |
@@ -399,4 +400,8 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
