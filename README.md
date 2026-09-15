@@ -149,6 +149,7 @@
 | [0680-valid-palindrome-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
@@ -188,6 +189,7 @@
 | [0961-long-pressed-name](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0961-long-pressed-name) |
 | [1028-interval-list-intersections](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1028-interval-list-intersections) |
 | [1894-merge-strings-alternately](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Heap (Priority Queue)
@@ -266,6 +268,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -303,6 +306,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0977-distinct-subsequences-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0977-distinct-subsequences-ii) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Queue
 |  |
