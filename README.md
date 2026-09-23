@@ -52,6 +52,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1677-matrix-diagonal-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -79,6 +80,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Sliding Window
@@ -94,6 +96,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -107,6 +110,7 @@
 | [1206-corporate-flight-bookings](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1206-corporate-flight-bookings) |
 | [1603-running-sum-of-1d-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [4284-smallest-stable-index-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4285-smallest-stable-index-ii) |
@@ -138,6 +142,7 @@
 | [1217-relative-sort-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1217-relative-sort-array) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3799-unique-3-digit-even-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
