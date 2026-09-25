@@ -140,6 +140,7 @@
 | [0940-fruit-into-baskets](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1044-find-common-characters](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1044-find-common-characters) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1145-number-of-submatrices-that-sum-to-target) |
+| [1188-brace-expansion-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1188-brace-expansion-ii) |
 | [1217-relative-sort-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1217-relative-sort-array) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
@@ -184,6 +185,7 @@
 | [0645-set-mismatch](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1184-car-pooling](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1184-car-pooling) |
+| [1188-brace-expansion-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1188-brace-expansion-ii) |
 | [1217-relative-sort-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1217-relative-sort-array) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -283,6 +285,7 @@
 | [0977-distinct-subsequences-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0977-distinct-subsequences-ii) |
 | [1044-find-common-characters](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1188-brace-expansion-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1188-brace-expansion-ii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1894-merge-strings-alternately](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
@@ -363,6 +366,7 @@
 | [0316-remove-duplicate-letters](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0874-backspace-string-compare](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1188-brace-expansion-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1188-brace-expansion-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -377,6 +381,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1188-brace-expansion-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1188-brace-expansion-ii) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Quicksort
 |  |
@@ -444,4 +449,8 @@
 |  |
 | ------- |
 | [3840-find-x-value-of-array-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3840-find-x-value-of-array-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1188-brace-expansion-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1188-brace-expansion-ii) |
 <!---LeetCode Topics End-->
