@@ -291,6 +291,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -372,6 +373,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1188-brace-expansion-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1188-brace-expansion-ii) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -438,6 +440,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
