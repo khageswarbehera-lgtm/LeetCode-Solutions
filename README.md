@@ -258,6 +258,7 @@
 | [0012-integer-to-roman](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
@@ -327,6 +328,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
@@ -444,6 +446,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -468,5 +471,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [1188-brace-expansion-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1188-brace-expansion-ii) |
 <!---LeetCode Topics End-->
