@@ -276,6 +276,7 @@
 | [0242-valid-anagram](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -411,6 +412,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1188-brace-expansion-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1188-brace-expansion-ii) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Quicksort
@@ -493,6 +495,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1188-brace-expansion-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1188-brace-expansion-ii) |
 ## Merge Sort
 |  |
