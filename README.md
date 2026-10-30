@@ -232,6 +232,7 @@
 | [0658-find-k-closest-elements](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1184-car-pooling](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1184-car-pooling) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2418-minimum-sum-of-squared-difference) |
+| [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Design
 |  |
 | ------- |
@@ -322,6 +323,7 @@
 | [3811-reverse-degree-of-a-string](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3811-reverse-degree-of-a-string) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Counting
 |  |
 | ------- |
@@ -515,4 +517,12 @@
 |  |
 | ------- |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4075-count-subarrays-with-majority-element-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
