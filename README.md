@@ -66,6 +66,7 @@
 | [3840-find-x-value-of-array-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3840-find-x-value-of-array-ii) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+| [3938-twisted-mirror-path-count](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3938-twisted-mirror-path-count) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4075-count-subarrays-with-majority-element-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4258-construct-uniform-parity-array-ii) |
@@ -253,6 +254,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+| [3938-twisted-mirror-path-count](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3938-twisted-mirror-path-count) |
 ## Simulation
 |  |
 | ------- |
@@ -369,6 +371,7 @@
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3831-find-x-value-of-array-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3831-find-x-value-of-array-i) |
+| [3938-twisted-mirror-path-count](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3938-twisted-mirror-path-count) |
 ## Queue
 |  |
 | ------- |
