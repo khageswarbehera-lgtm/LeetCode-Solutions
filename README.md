@@ -30,6 +30,7 @@
 | [0435-non-overlapping-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0498-diagonal-traverse](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0561-array-partition](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
@@ -195,6 +196,7 @@
 | [0389-find-the-difference](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
@@ -388,6 +390,7 @@
 | [0013-roman-to-integer](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0415-add-strings](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0866-rectangle-overlap](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0866-rectangle-overlap) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
