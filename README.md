@@ -69,6 +69,7 @@
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3938-twisted-mirror-path-count](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3938-twisted-mirror-path-count) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4075-count-subarrays-with-majority-element-ii) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4284-smallest-stable-index-i) |
@@ -397,6 +398,7 @@
 | [3831-find-x-value-of-array-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3831-find-x-value-of-array-i) |
 | [3840-find-x-value-of-array-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3840-find-x-value-of-array-ii) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4245-count-commas-in-range](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4256-construct-uniform-parity-array-i) |
