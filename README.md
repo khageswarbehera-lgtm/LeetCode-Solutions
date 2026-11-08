@@ -49,6 +49,7 @@
 | [1184-car-pooling](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1206-corporate-flight-bookings) |
 | [1217-relative-sort-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1217-relative-sort-array) |
+| [1396-count-servers-that-communicate](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -264,6 +265,7 @@
 | [0864-image-overlap](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0864-image-overlap) |
 | [0898-transpose-matrix](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1145-number-of-submatrices-that-sum-to-target) |
+| [1396-count-servers-that-communicate](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1677-matrix-diagonal-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
@@ -346,6 +348,7 @@
 | [0347-top-k-frequent-elements](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1396-count-servers-that-communicate](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
@@ -448,6 +451,7 @@
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1188-brace-expansion-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1188-brace-expansion-ii) |
+| [1396-count-servers-that-communicate](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Quicksort
 |  |
@@ -485,6 +489,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -545,4 +550,8 @@
 |  |
 | ------- |
 | [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Union-Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
