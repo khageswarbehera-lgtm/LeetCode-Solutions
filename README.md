@@ -194,6 +194,7 @@
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
+| [4147-minimum-cost-to-acquire-required-items](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4147-minimum-cost-to-acquire-required-items) |
 ## Sorting
 |  |
 | ------- |
@@ -419,6 +420,7 @@
 | [3840-find-x-value-of-array-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3840-find-x-value-of-array-ii) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
+| [4147-minimum-cost-to-acquire-required-items](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4147-minimum-cost-to-acquire-required-items) |
 | [4245-count-commas-in-range](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4256-construct-uniform-parity-array-i) |
