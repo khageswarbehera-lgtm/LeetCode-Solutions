@@ -65,6 +65,7 @@
 | [2418-minimum-sum-of-squared-difference](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2833-count-zero-request-servers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2833-count-zero-request-servers) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3799-unique-3-digit-even-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
