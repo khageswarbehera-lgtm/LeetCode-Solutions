@@ -67,6 +67,7 @@
 | [2844-sum-of-squares-of-special-elements](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3799-unique-3-digit-even-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3831-find-x-value-of-array-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3831-find-x-value-of-array-i) |
@@ -116,6 +117,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2833-count-zero-request-servers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2833-count-zero-request-servers) |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
@@ -401,10 +403,12 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 ## Math
 |  |
 | ------- |
@@ -443,6 +447,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 ## Linked List
 |  |
 | ------- |
@@ -526,6 +531,7 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 ## Geometry
 |  |
 | ------- |
@@ -538,6 +544,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 | [3840-find-x-value-of-array-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3840-find-x-value-of-array-ii) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Backtracking
