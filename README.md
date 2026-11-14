@@ -67,6 +67,7 @@
 | [2844-sum-of-squares-of-special-elements](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+| [3644-minimum-positive-sum-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3644-minimum-positive-sum-subarray) |
 | [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3799-unique-3-digit-even-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
@@ -117,6 +118,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2833-count-zero-request-servers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2833-count-zero-request-servers) |
+| [3644-minimum-positive-sum-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3644-minimum-positive-sum-subarray) |
 | [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
@@ -133,6 +135,7 @@
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3644-minimum-positive-sum-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3644-minimum-positive-sum-subarray) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4075-count-subarrays-with-majority-element-ii) |
 | [4284-smallest-stable-index-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4285-smallest-stable-index-ii) |
