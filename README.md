@@ -67,6 +67,7 @@
 | [2706-minimum-score-by-changing-two-elements](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2833-count-zero-request-servers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2833-count-zero-request-servers) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3644-minimum-positive-sum-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3644-minimum-positive-sum-subarray) |
@@ -230,6 +231,7 @@
 | [2418-minimum-sum-of-squared-difference](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2833-count-zero-request-servers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2833-count-zero-request-servers) |
+| [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Two Pointers
 |  |
@@ -405,6 +407,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3831-find-x-value-of-array-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3831-find-x-value-of-array-i) |
