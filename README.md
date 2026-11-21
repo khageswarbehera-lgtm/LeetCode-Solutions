@@ -70,6 +70,7 @@
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3644-minimum-positive-sum-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3644-minimum-positive-sum-subarray) |
 | [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -175,6 +176,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2833-count-zero-request-servers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2833-count-zero-request-servers) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3799-unique-3-digit-even-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
@@ -358,6 +360,7 @@
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3811-reverse-degree-of-a-string](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3811-reverse-degree-of-a-string) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -515,11 +518,13 @@
 |  |
 | ------- |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
