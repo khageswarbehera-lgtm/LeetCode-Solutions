@@ -50,6 +50,7 @@
 | [1206-corporate-flight-bookings](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1206-corporate-flight-bookings) |
 | [1217-relative-sort-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1217-relative-sort-array) |
 | [1396-count-servers-that-communicate](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
+| [1477-product-of-the-last-k-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -135,6 +136,7 @@
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1184-car-pooling](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1206-corporate-flight-bookings) |
+| [1477-product-of-the-last-k-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -271,6 +273,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [1477-product-of-the-last-k-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Matrix
 |  |
 | ------- |
@@ -437,6 +440,7 @@
 | [0415-add-strings](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0866-rectangle-overlap](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/0866-rectangle-overlap) |
+| [1477-product-of-the-last-k-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -595,4 +599,8 @@
 |  |
 | ------- |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
