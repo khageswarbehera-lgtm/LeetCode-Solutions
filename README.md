@@ -74,6 +74,7 @@
 | [3576-find-subtree-sizes-after-changes](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3644-minimum-positive-sum-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3644-minimum-positive-sum-subarray) |
 | [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3799-unique-3-digit-even-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3831-find-x-value-of-array-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3831-find-x-value-of-array-i) |
@@ -125,6 +126,7 @@
 | [2833-count-zero-request-servers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2833-count-zero-request-servers) |
 | [3644-minimum-positive-sum-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3644-minimum-positive-sum-subarray) |
 | [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
@@ -382,6 +384,7 @@
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3799-unique-3-digit-even-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -444,6 +447,7 @@
 | [1501-circle-and-rectangle-overlapping](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3831-find-x-value-of-array-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3831-find-x-value-of-array-i) |
 | [3840-find-x-value-of-array-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3840-find-x-value-of-array-ii) |
@@ -603,4 +607,8 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3702-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
