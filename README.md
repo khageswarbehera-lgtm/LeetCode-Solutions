@@ -84,6 +84,7 @@
 | [3938-twisted-mirror-path-count](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3938-twisted-mirror-path-count) |
 | [4041-climbing-stairs-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4041-climbing-stairs-ii) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4075-count-subarrays-with-majority-element-ii) |
+| [4105-smallest-unique-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4105-smallest-unique-subarray) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4258-construct-uniform-parity-array-ii) |
@@ -108,6 +109,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2418-minimum-sum-of-squared-difference) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+| [4105-smallest-unique-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4105-smallest-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -186,6 +188,7 @@
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4075-count-subarrays-with-majority-element-ii) |
+| [4105-smallest-unique-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4105-smallest-unique-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -611,4 +614,16 @@
 |  |
 | ------- |
 | [3702-maximum-subarray-with-equal-products](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3702-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [4105-smallest-unique-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4105-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [4105-smallest-unique-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4105-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [4105-smallest-unique-subarray](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4105-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
