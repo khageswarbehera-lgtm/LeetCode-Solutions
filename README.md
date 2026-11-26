@@ -309,6 +309,7 @@
 | [1184-car-pooling](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1184-car-pooling) |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2361-calculate-digit-sum-of-a-string) |
+| [3625-stone-removal-game](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3625-stone-removal-game) |
 | [3811-reverse-degree-of-a-string](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3811-reverse-degree-of-a-string) |
 ## String
 |  |
@@ -450,6 +451,7 @@
 | [1501-circle-and-rectangle-overlapping](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3625-stone-removal-game](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3625-stone-removal-game) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3831-find-x-value-of-array-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3831-find-x-value-of-array-i) |
