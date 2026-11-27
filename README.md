@@ -76,6 +76,7 @@
 | [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3742-maximum-number-of-items-from-sale-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3742-maximum-number-of-items-from-sale-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3831-find-x-value-of-array-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3831-find-x-value-of-array-i) |
 | [3840-find-x-value-of-array-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3840-find-x-value-of-array-ii) |
@@ -213,6 +214,7 @@
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/2706-minimum-score-by-changing-two-elements) |
+| [3742-maximum-number-of-items-from-sale-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3742-maximum-number-of-items-from-sale-i) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4147-minimum-cost-to-acquire-required-items](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4147-minimum-cost-to-acquire-required-items) |
 ## Sorting
@@ -424,6 +426,7 @@
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3742-maximum-number-of-items-from-sale-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3742-maximum-number-of-items-from-sale-i) |
 | [3831-find-x-value-of-array-i](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3831-find-x-value-of-array-i) |
 | [3938-twisted-mirror-path-count](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/3938-twisted-mirror-path-count) |
 | [4041-climbing-stairs-ii](https://github.com/khageswarbehera-lgtm/LeetCode-Solutions/tree/master/4041-climbing-stairs-ii) |
